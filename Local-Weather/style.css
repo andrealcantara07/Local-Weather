@@ -1,0 +1,49 @@
+.container-fluid {
+
+padding-left: 0px;
+padding-right: 0px;
+} 
+
+body {
+background-image: url("#");
+font-size: 2.0em;
+} 
+h1{
+font-size: 3.0em;
+font-weight: bold;
+} 
+img {
+position: relative;
+top: -10.4em;
+margin-left: 25%
+} 
+#desc {
+text-transform: capitalize;
+margin-right: 23%;
+} 
+
+#icon{
+height: 5.0em;
+
+} 
+#city{
+font-size:2.0em;
+font-weight: bold;
+
+} 
+#weather{
+margin-right: 23%;
+font-size: 2.0em
+
+} 
+#temp{
+margin-left: 25%;
+position: relative;
+top: -1.0em;
+font-size: 2.0em;
+
+} 
+.btn{
+border-radius: 40%;
+background: rgba(255, 255, 255, 0.1) !important;
+}
